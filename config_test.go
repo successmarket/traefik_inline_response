@@ -2,7 +2,7 @@ package traefik_inline_response_test
 
 import (
 	"github.com/mitchellh/mapstructure"
-	"github.com/tuxgal/traefik_inline_response"
+	"github.com/successmarket/traefik_inline_response"
 	"gopkg.in/yaml.v3"
 )
 
