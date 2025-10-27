@@ -1,4 +1,4 @@
-module github.com/successmarket/traefik_inline_response
+module github.com/tuxgal/traefik_inline_response
 
 go 1.22.4
 
