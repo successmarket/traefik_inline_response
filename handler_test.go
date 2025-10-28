@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tuxgal/traefik_inline_response"
+	"github.com/successmarket/traefik_inline_response"
 )
 
 type testRequest struct {
